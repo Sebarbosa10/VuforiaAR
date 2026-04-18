@@ -4,6 +4,6 @@ public class AbrirLink : MonoBehaviour
 {
     public void AbrirGitHub()
     {
-        Application.OpenURL("https://github.com/Sebarbosa10/VRGame.git");
+        Application.OpenURL("https://canva.link/4ggrr24lkpwpss4");
     }
 }
